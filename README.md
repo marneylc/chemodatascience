@@ -6,16 +6,20 @@ This is a repository for various ML methods and some older chemometrics methods.
 ### Analysis Methods
 - Clustering - PCA to BHC - https://github.com/marneylc/chemodatascience/blob/master/PCA-BHC-SkogerboeDogFood.ipynb
 - Regression - ACS Testing Information 
-- Large-Scale Inference - https://github.com/StoreyLab/qvalue
-- BHC - https://github.com/marneylc/BHC_MS
+- Large-Scale Inference - https://github.com/StoreyLab/qvalue - MTBLS162
 - Random Forest - https://www.r-bloggers.com/predicting-wine-quality-using-random-forests/
-- LASSO - https://cran.r-project.org/web/packages/glmnet/glmnet.pdf
-- gwas https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest_v2.4.1.html
+- GWAS https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest_v2.4.1.html
+- Fisher-ratio Feature Selection GCxGC-TOFMS
 
-### Data Types
-- gcms
-- lcms
-- GCxGC-TOFMS - Elude to F-ratio code (Nick Moore)
+### In Progress
+- BHC - https://github.com/marneylc/BHC_MS
+- LASSO - https://cran.r-project.org/web/packages/glmnet/glmnet.pdf
+
+### Data Types and Visualization
+- GCMS
+- LCMS
+- GCxGC-TOFMS
+- NMR
 
 ### Weirder Stuff
 - quantum beysianism - https://arxiv.org/pdf/1707.02030.pdf
