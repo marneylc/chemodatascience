@@ -1,5 +1,5 @@
 ## Mathematics and Chemistry
-This is a repository for various ML methods and some older chemometrics methods. It is intended to highlight the fact that any mathematical model is in-fact a model of reality and not reality itself. As clear as the distinction between the idea of the chemical, and the actual presentation of our truly probabalistic understanding of that chemical in quantum mechanics. Not so clear as data scientist would have you believe, it is truly as complicated as the human imagination itself.
+This is a repository for various ML methods and some older chemometrics methods. It is intended to highlight the fact that any mathematical model is in-fact a model of reality and not reality itself. This philosophy is consistent with subjective baysianism. As clear as the distinction between the idea of the chemical, and the actual presentation of our truly probabalistic understanding of that chemical in quantum mechanics. Not so clear as data scientist would have you believe, the varieties of data processing strategies are truly as complicated as the human imagination itself.
 
 "The whole process of learning the facility of being able to play jazz is to take these problems from the outer level in, one by one, and to stay with it at a very intense, conscious-concentration level until that process becomes secondary and subconscious. Now, when that becomes subconscious, then you can begin concentrating on that next problem, which will allow you to do a little bit more." -- Bill Evans
 
@@ -26,3 +26,7 @@ This is a repository for various ML methods and some older chemometrics methods.
 - tunneling - http://aapt.scitation.org/doi/full/10.1119/1.4991367
 - number and time - http://www.jgsparks.net/guides/vF/Seminar1.pdf
 
+### Environments
+- jupyter on a chromebook - gdrive:/backups/notebook<date>.tar,gz
+- ssh docker image - https://github.com/marneylc/chemodatascience/blob/master/chemodatascience/docker/ssh_image.md
+- R and python AWS Instructions - start here: https://aws.amazon.com/getting-started/tutorials/launch-windows-vm/
