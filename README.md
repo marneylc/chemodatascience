@@ -4,16 +4,21 @@ This is a repository for various ML methods and some older chemometrics methods.
 "The whole process of learning the facility of being able to play jazz is to take these problems from the outer level in, one by one, and to stay with it at a very intense, conscious-concentration level until that process becomes secondary and subconscious. Now, when that becomes subconscious, then you can begin concentrating on that next problem, which will allow you to do a little bit more." -- Bill Evans
 
 ### Analysis Methods
-- Clustering - PCA to BHC
-- Clustering and regression - pca followed by pls type-regression using principle components for classification
-- PLS - doesn't exist but start here https://www.r-bloggers.com/r-pls-regression-gasoline-003/
+- Clustering - PCA to BHC - https://github.com/marneylc/chemodatascience/blob/master/PCA-BHC-SkogerboeDogFood.ipynb
+- Regression - ACS Testing Information 
 - Large-Scale Inference - https://github.com/StoreyLab/qvalue
-- BHC - James
-- Random Forest - Animesh
-- LASSO
-- number and time - http://www.jgsparks.net/guides/vF/Seminar1.pdf
+- BHC - https://github.com/marneylc/BHC_MS
+- Random Forest - https://www.r-bloggers.com/predicting-wine-quality-using-random-forests/
+- LASSO - https://cran.r-project.org/web/packages/glmnet/glmnet.pdf
+- gwas https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest_v2.4.1.html
 
 ### Data Types
 - gcms
 - lcms
 - GCxGC-TOFMS - Elude to F-ratio code (Nick Moore)
+
+### Weirder Stuff
+- quantum beysianism - https://arxiv.org/pdf/1707.02030.pdf
+- tunneling - http://aapt.scitation.org/doi/full/10.1119/1.4991367
+- number and time - http://www.jgsparks.net/guides/vF/Seminar1.pdf
+
