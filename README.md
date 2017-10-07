@@ -7,8 +7,8 @@ This is a repository for various ML methods and some older chemometrics methods.
 
 ### Analysis Methods
 - Clustering - PCA to BHC - https://github.com/marneylc/chemodatascience/blob/master/PCA-BHC-SkogerboeDogFood.ipynb
-- Regression - MCAT Testing Information - sources/MCAT_InstitutionalScores_USMLE.pdf
-- Large-Scale Inference - https://github.com/StoreyLab/qvalue - MTBLS162
+- Regression - Quinine jupyter/Fluorescence of Quinine F2017.ipynb (MCAT Testing Information? - sources/MCAT_InstitutionalScores_USMLE.pdf)
+- Large-Scale Inference - https://github.com/StoreyLab/qvalue - Use Skyline for MTBLS162 https://www.ebi.ac.uk/metabolights/MTBLS162
 - Random Forest - https://www.r-bloggers.com/predicting-wine-quality-using-random-forests/
 - GWAS https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest_v2.4.1.html
 - Fisher-ratio Feature Selection GCxGC-TOFMS
@@ -18,6 +18,7 @@ This is a repository for various ML methods and some older chemometrics methods.
 - LASSO - https://cran.r-project.org/web/packages/glmnet/glmnet.pdf
 
 ### Data Types and Visualization
+- metadata - https://github.com/marneylc/metadata - needs a shiny interface
 - GCMS
 - LCMS
 - GCxGC-TOFMS
