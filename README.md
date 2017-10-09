@@ -9,15 +9,15 @@ This is a repository for various ML methods and some older chemometrics methods.
 - Clustering - PCA to BHC
 <https://github.com/marneylc/chemodatascience/blob/master/jupyter/PCA-BHC-SkogerboeDogFood.ipynb>
 - Regression - Quinine
-<https://github.com/marneylc/chemodatascience/blob/master/jupyter/Fluorescence of Quinine F2017.ipynb> 
+<https://github.com/marneylc/chemodatascience/blob/master/jupyter/Fluorescence_of_Quinine_F2017.ipynb> 
 - Large-Scale Inference - **create!** 
 <https://github.com/StoreyLab/qvalue> - Use Skyline for MTBLS162 <https://www.ebi.ac.uk/metabolights/MTBLS162>
 - Random Forest - 
-<https://github.com/marneylc/chemodatascience/blob/master/jupyter/Random Forest - Wine Quality.ipynb>
+<https://github.com/marneylc/chemodatascience/blob/master/jupyter/Random_Forest_Wine_Quality.ipynb>
 - GWAS with Metabolomics Data 
-<https://github.com/marneylc/chemodatascience/blob/master/sources/Manuscript_Circulation_Lipid profiling by direct infusion.pdf>
+<https://github.com/marneylc/chemodatascience/blob/master/sources/Manuscript_Circulation_Lipid_profiling_by_direct_infusion.pdf>
 - GWAS with Metabolomics Data Supplementary Information - 
-<https://github.com/marneylc/chemodatascience/blob/master/sources/Manuscript_Circulation_Lipid profiling by direct infusion_Supplementary.pdf>
+<https://github.com/marneylc/chemodatascience/blob/master/sources/Manuscript_Circulation_Lipid_profiling_by_direct_infusion_Supplementary.pdf>
 - Fisher-ratio Feature Selection for GCxGC-TOFMS 
 <https://github.com/marneylc/chemodatascience/blob/master/sources/TAL-FRatio-2103-Marney.pdf>
 - Fisher-ratio Feature Selection for GCxGC-TOFMS Bayesian vs Frequentist posterior modelling for reduction of false positives in chemical data
