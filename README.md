@@ -36,6 +36,8 @@ This is a repository for various ML methods and some older chemometrics methods.
 - LCMS (Orbitrap) - **create!**
 - GCxGC-TOFMS - **create!**
 - NMR - **create!**
+- Instrumentation Management Documentation 
+<https://github.com/marneylc/IM/>
 
 ### Weirder Stuff
 - quantum beysianism - https://arxiv.org/pdf/1707.02030.pdf
