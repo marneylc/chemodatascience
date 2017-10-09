@@ -6,23 +6,28 @@ This is a repository for various ML methods and some older chemometrics methods.
 "The whole process of learning the facility of being able to play jazz is to take these problems from the outer level in, one by one, and to stay with it at a very intense, conscious-concentration level until that process becomes secondary and subconscious. Now, when that becomes subconscious, then you can begin concentrating on that next problem, which will allow you to do a little bit more." --Bill Evans
 
 ### Analysis Methods
-- Clustering - PCA to BHC - https://github.com/marneylc/chemodatascience/blob/master/PCA-BHC-SkogerboeDogFood.ipynb
-- Regression - Quinine jupyter/Fluorescence of Quinine F2017.ipynb (MCAT Testing Information? - sources/MCAT_InstitutionalScores_USMLE.pdf)
-- Large-Scale Inference - https://github.com/StoreyLab/qvalue - Use Skyline for MTBLS162 https://www.ebi.ac.uk/metabolights/MTBLS162
-- Random Forest - https://www.r-bloggers.com/predicting-wine-quality-using-random-forests/
-- GWAS https://mathgen.stats.ox.ac.uk/genetics_software/snptest/snptest_v2.4.1.html
-- Fisher-ratio Feature Selection GCxGC-TOFMS
+- Clustering - PCA to BHC - https://github.com/marneylc/chemodatascience/blob/master/jupyter/PCA-BHC-SkogerboeDogFood.ipynb
+- Regression - Quinine - https://github.com/marneylc/chemodatascience/blob/master/jupyter/Fluorescence of Quinine F2017.ipynb 
+- Large-Scale Inference - **create!** https://github.com/StoreyLab/qvalue - Use Skyline for MTBLS162 https://www.ebi.ac.uk/metabolights/MTBLS162
+- Random Forest - https://github.com/marneylc/chemodatascience/blob/master/jupyter/Random Forest - Wine Quality.ipynb
+- GWAS with Metabolomics Data - https://github.com/marneylc/chemodatascience/blob/master/sources/Manuscript_Circulation_Lipid profiling by direct infusion.pdf
+- GWAS with Metabolomics Data Supplementary Information - https://github.com/marneylc/chemodatascience/blob/master/sources/Manuscript_Circulation_Lipid profiling by direct infusion_Supplementary.pdf
+- Fisher-ratio Feature Selection for GCxGC-TOFMS - https://github.com/marneylc/chemodatascience/blob/master/sources/TAL-FRatio-2103-Marney.pdf
+- Fisher-ratio Feature Selection for GCxGC-TOFMS Bayesian vs Frequentist posterior modelling for reduction of false positives in chemical data - https://github.com/marneylc/chemodatascience/blob/master/sources/TileBasedFratio_NullDistributionApproach.pdf
 
 ### In Progress
 - BHC - https://github.com/marneylc/BHC_MS
 - LASSO - https://cran.r-project.org/web/packages/glmnet/glmnet.pdf
+- MCAT Testing Information - sources/MCAT_InstitutionalScores_USMLE.pdf
+- ACS Testing Information - Seattle U Chemistry Data
 
 ### Data Types and Visualization
 - metadata - https://github.com/marneylc/metadata - needs a shiny interface
-- GCMS
-- LCMS
-- GCxGC-TOFMS
-- NMR
+- GCMS - **create!**
+- LCMS (MRM) - **create!**
+- LCMS (Orbitrap) - **create!**
+- GCxGC-TOFMS - **create!**
+- NMR - **create!**
 
 ### Weirder Stuff
 - quantum beysianism - https://arxiv.org/pdf/1707.02030.pdf
@@ -30,6 +35,7 @@ This is a repository for various ML methods and some older chemometrics methods.
 - number and time - http://www.jgsparks.net/guides/vF/Seminar1.pdf
 
 ### Environments
-- jupyter on a chromebook - gdrive:/backups/notebook<date>.tar,gz
+- jupyter on a chromebook - I have so many... email me if you want one from my google-drive, I use rclone https://rclone.org/ (gdrive:/backups/notebook<date>.tar,gz)
 - ssh docker image - https://github.com/marneylc/chemodatascience/blob/master/chemodatascience/docker/ssh_image.md
-- R and python AWS Instructions - start here: https://aws.amazon.com/getting-started/tutorials/launch-windows-vm/
+- R and python AWS Instructions - **create!** start here: https://aws.amazon.com/getting-started/tutorials/launch-windows-vm/
+- AWS docker sage environment for mathematics students - **create!**
