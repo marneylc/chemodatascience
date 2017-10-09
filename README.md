@@ -6,14 +6,22 @@ This is a repository for various ML methods and some older chemometrics methods.
 "The whole process of learning the facility of being able to play jazz is to take these problems from the outer level in, one by one, and to stay with it at a very intense, conscious-concentration level until that process becomes secondary and subconscious. Now, when that becomes subconscious, then you can begin concentrating on that next problem, which will allow you to do a little bit more." --Bill Evans
 
 ### Analysis Methods
-- Clustering - PCA to BHC - https://github.com/marneylc/chemodatascience/blob/master/jupyter/PCA-BHC-SkogerboeDogFood.ipynb
-- Regression - Quinine - https://github.com/marneylc/chemodatascience/blob/master/jupyter/Fluorescence of Quinine F2017.ipynb 
-- Large-Scale Inference - **create!** https://github.com/StoreyLab/qvalue - Use Skyline for MTBLS162 https://www.ebi.ac.uk/metabolights/MTBLS162
-- Random Forest - https://github.com/marneylc/chemodatascience/blob/master/jupyter/Random Forest - Wine Quality.ipynb
-- GWAS with Metabolomics Data - https://github.com/marneylc/chemodatascience/blob/master/sources/Manuscript_Circulation_Lipid profiling by direct infusion.pdf
-- GWAS with Metabolomics Data Supplementary Information - https://github.com/marneylc/chemodatascience/blob/master/sources/Manuscript_Circulation_Lipid profiling by direct infusion_Supplementary.pdf
-- Fisher-ratio Feature Selection for GCxGC-TOFMS - https://github.com/marneylc/chemodatascience/blob/master/sources/TAL-FRatio-2103-Marney.pdf
-- Fisher-ratio Feature Selection for GCxGC-TOFMS Bayesian vs Frequentist posterior modelling for reduction of false positives in chemical data - https://github.com/marneylc/chemodatascience/blob/master/sources/TileBasedFratio_NullDistributionApproach.pdf
+- Clustering - PCA to BHC
+	<https://github.com/marneylc/chemodatascience/blob/master/jupyter/PCA-BHC-SkogerboeDogFood.ipynb>
+- Regression - Quinine
+	<https://github.com/marneylc/chemodatascience/blob/master/jupyter/Fluorescence of Quinine F2017.ipynb> 
+- Large-Scale Inference - **create!** 
+	<https://github.com/StoreyLab/qvalue> - Use Skyline for MTBLS162 <https://www.ebi.ac.uk/metabolights/MTBLS162>
+- Random Forest - 
+	<https://github.com/marneylc/chemodatascience/blob/master/jupyter/Random Forest - Wine Quality.ipynb>
+- GWAS with Metabolomics Data 
+	<https://github.com/marneylc/chemodatascience/blob/master/sources/Manuscript_Circulation_Lipid profiling by direct infusion.pdf>
+- GWAS with Metabolomics Data Supplementary Information - 
+	<https://github.com/marneylc/chemodatascience/blob/master/sources/Manuscript_Circulation_Lipid profiling by direct infusion_Supplementary.pdf>
+- Fisher-ratio Feature Selection for GCxGC-TOFMS 
+	<https://github.com/marneylc/chemodatascience/blob/master/sources/TAL-FRatio-2103-Marney.pdf>
+- Fisher-ratio Feature Selection for GCxGC-TOFMS Bayesian vs Frequentist posterior modelling for reduction of false positives in chemical data
+	<https://github.com/marneylc/chemodatascience/blob/master/sources/TileBasedFratio_NullDistributionApproach.pdf>
 
 ### In Progress
 - BHC - https://github.com/marneylc/BHC_MS
