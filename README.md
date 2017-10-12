@@ -28,6 +28,7 @@ This is a repository for various ML methods and some older chemometrics methods.
 - LASSO - https://cran.r-project.org/web/packages/glmnet/glmnet.pdf
 - MCAT Testing Information - sources/MCAT_InstitutionalScores_USMLE.pdf
 - ACS Testing Information - Seattle U Chemistry Data
+- Sell Adds to Specific People
 
 ### Data Types and Visualization
 - metadata - https://github.com/marneylc/metadata - needs a shiny interface
@@ -41,7 +42,8 @@ This is a repository for various ML methods and some older chemometrics methods.
 
 ### Weirder Stuff
 - quantum beysianism - https://arxiv.org/pdf/1707.02030.pdf
-- tunneling - http://aapt.scitation.org/doi/full/10.1119/1.4991367
+- tunneling 
+<https://github.com/marneylc/chemodatascience/blob/master/md/qbism/stars.pdf>
 - number and time - http://www.jgsparks.net/guides/vF/Seminar1.pdf
 
 ### Environments
