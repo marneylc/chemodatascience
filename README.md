@@ -1,5 +1,8 @@
 ## Mathematics and Chemistry
-This is a repository for various ML methods and some older chemometrics methods. Any mathematical model is not reality itself, but a useful tool to look into a hypothesis with greater logical detail. Belief in absolute truth in mathematical models is seen in objective bayes, however as a natural scientist it seems to me that subjective baysianism places the hypothesis where it needs to be--how do I know what I know. As clear as the distinction between the idea of the chemical, and the actual presentation of our truly probabalistic understanding of that chemical in quantum mechanics. Not so clear as many data scientists would have us believe. It seems to me that the varieties of data processing strategies are truly as complicated as the human imagination itself. The important part about mathematics is that this imagination can be communicated through pure logic. However, let us not forget the whole left-side of cognition! Intuition!
+This is a repository for a loose organization of various machine learning methods and some specific chemometrics methods. Some are purley my own code, while others are simply an avenue to lead the reader down a specific train of thought. I've tried to link directly to the owner's sites where applicable.
+
+Pondering...
+Mathematical models are not reality itself. As I look into a hypothesis about my world with greater logical detail, my belief in an absolute truth via mathematics is shaken--how do I know what I know? As clear as the distinction between the idea of the atom and the chemical, and the mathematical and probabalistic understanding of that chemical in quantum mechanics. Data science surly doesn't exclaim that math = truth. It seems to me that the varieties of data processing strategies are truly as complicated as the human imagination itself, and if our experience in the experimental sciences has taught us anything, it surly has taught us that our theories rarely fit reality completely. The important part about mathematics is that this imagination can be communicated through pure logic and thus clearly understood by those trained in its methods. However, let us not forget the whole left-side of cognition! Intuition!
 
 "The real problem in speech is not precise language. The problem is clear language. The desire is to have the idea clearly communicated to the other person. It is only necessary to be precise when there is some doubt as to the meaning of a phrase, and then the precision should be put in the place where the doubt exists. It is really quite impossible to say anything with absolute precision, unless that thing is so abstracted from the real world as to not represent any real thing. Pure mathematics is just such an abstraction from the real world, and pure mathematics does have a special precise language for dealing with its own special and technical subjects. But this precise language is not precise in any sense if you deal with real objects of the world, and it is only pedantic and quite confusing to use it unless there are some special subtleties which have to be carefully distinguished." --Richard Feynman
 
@@ -10,9 +13,9 @@ This is a repository for various ML methods and some older chemometrics methods.
 <https://github.com/marneylc/chemodatascience/blob/master/jupyter/PCA-BHC-SkogerboeDogFood.ipynb>
 - Regression - Quinine
 <https://github.com/marneylc/chemodatascience/blob/master/jupyter/Fluorescence_of_Quinine_F2017.ipynb> 
-- Large-Scale Inference - **create!** 
+- Large-Scale Inference - **in progress** 
 <https://github.com/StoreyLab/qvalue> - Use Skyline for MTBLS162 <https://www.ebi.ac.uk/metabolights/MTBLS162>
-- Random Forest - 
+- Random Forest - **in progress** 
 <https://github.com/marneylc/chemodatascience/blob/master/jupyter/Random_Forest_Wine_Quality.ipynb>
 - GWAS with Metabolomics Data 
 <https://github.com/marneylc/chemodatascience/blob/master/sources/Manuscript_Circulation_Lipid_profiling_by_direct_infusion.pdf>
@@ -26,28 +29,20 @@ This is a repository for various ML methods and some older chemometrics methods.
 ### In Progress
 - BHC - https://github.com/marneylc/BHC_MS
 - LASSO - https://cran.r-project.org/web/packages/glmnet/glmnet.pdf
-- MCAT Testing Information - sources/MCAT_InstitutionalScores_USMLE.pdf
-- ACS Testing Information - Seattle U Chemistry Data
-- Sell Adds to Specific People
 
 ### Data Types and Visualization
 - metadata - https://github.com/marneylc/metadata - needs a shiny interface
-- GCMS - **create!**
-- LCMS (MRM) - **create!**
-- LCMS (Orbitrap) - **create!**
-- GCxGC-TOFMS - **create!**
-- NMR - **create!**
+- GCMS - **in progress**
+- LCMS (MRM) - **in progress**
+- LCMS (Orbitrap) - **in progress**
+- GCxGC-TOFMS - **in progress**
+- NMR - **in progress**
 - Instrumentation Management Documentation 
 <https://github.com/marneylc/IM/>
 
 ### Weirder Stuff
+- using deep learning for quantum mechanics understanding - https://becominghuman.ai/solving-schr%C3%B6dingers-equation-with-deep-learning-f9f6950a7c0e
 - quantum beysianism - https://arxiv.org/pdf/1707.02030.pdf
 - tunneling 
 <https://github.com/marneylc/chemodatascience/blob/master/md/qbism/stars.pdf>
 - number and time - http://www.jgsparks.net/guides/vF/Seminar1.pdf
-
-### Environments
-- jupyter on a chromebook - I have so many... email me if you want one from my google-drive, I use rclone https://rclone.org/ (gdrive:/backups/notebook<date>.tar,gz)
-- ssh docker image - https://github.com/marneylc/chemodatascience/blob/master/chemodatascience/docker/ssh_image.md
-- R and python AWS Instructions - **create!** start here: https://aws.amazon.com/getting-started/tutorials/launch-windows-vm/
-- AWS docker sage environment for mathematics students - **create!**
