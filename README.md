@@ -17,14 +17,14 @@ Mathematical models are not reality itself. As I look into a hypothesis about my
 <https://github.com/StoreyLab/qvalue> - Use Skyline for MTBLS162 <https://www.ebi.ac.uk/metabolights/MTBLS162>
 - Random Forest - **in progress** 
 <https://github.com/marneylc/chemodatascience/blob/master/jupyter/Random_Forest_Wine_Quality.ipynb>
-- GWAS with Metabolomics Data 
-<https://github.com/marneylc/chemodatascience/blob/master/sources/Manuscript_Circulation_Lipid_profiling_by_direct_infusion.pdf>
-- GWAS with Metabolomics Data Supplementary Information - 
-<https://github.com/marneylc/chemodatascience/blob/master/sources/Manuscript_Circulation_Lipid_profiling_by_direct_infusion_Supplementary.pdf>
+- PLS-DA of Lipids
+<https://www.ncbi.nlm.nih.gov/pubmed/26273324>
+- PLS-DA of Rocket Fuel
+<https://www.ncbi.nlm.nih.gov/pubmed/24411093>
 - Fisher-ratio Feature Selection for GCxGC-TOFMS 
-<https://github.com/marneylc/chemodatascience/blob/master/sources/TAL-FRatio-2103-Marney.pdf>
-- Fisher-ratio Feature Selection for GCxGC-TOFMS Bayesian vs Frequentist posterior modelling for reduction of false positives in chemical data
-<https://github.com/marneylc/chemodatascience/blob/master/sources/TileBasedFratio_NullDistributionApproach.pdf>
+https://www.ncbi.nlm.nih.gov/pubmed/24054679
+- Fisher-ratio Feature Selection for GCxGC-TOFMS Bayesian vs Frequentist posterior modelling for reduction of false positives in https://www.ncbi.nlm.nih.gov/pubmed/25785933
+
 
 ### In Progress
 - BHC - https://github.com/marneylc/BHC_MS
