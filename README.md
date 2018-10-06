@@ -28,10 +28,11 @@ https://www.ncbi.nlm.nih.gov/pubmed/24054679
 
 ### In Progress
 - BHC - https://github.com/marneylc/BHC_MS
-- LASSO - https://cran.r-project.org/web/packages/glmnet/glmnet.pdf
 
 ### Data Types and Visualization
 - metadata - https://github.com/marneylc/metadata - needs a shiny interface
+- LC-UV **in progress**
+- GC-FID **in progress**
 - GCMS - **in progress**
 - LCMS (MRM) - **in progress**
 - LCMS (Orbitrap) - **in progress**
