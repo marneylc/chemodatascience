@@ -9,7 +9,7 @@ I wonder if mathematical models are reality. As I look into a hypothesis about m
 "The whole process of learning the facility of being able to play jazz is to take these problems from the outer level in, one by one, and to stay with it at a very intense, conscious-concentration level until that process becomes secondary and subconscious. Now, when that becomes subconscious, then you can begin concentrating on that next problem, which will allow you to do a little bit more." --Bill Evans
 
 ### Analysis Methods
-- Data Science Health and Meaning - From Large-Scale Inference to Spectroscopy to Quantum Probabilites - **in progress** 
+- Data Science, Health, and Meaning - From Large-Scale Inference to Spectroscopy to Quantum Probabilites - **in progress** 
 <https://github.com/marneylc/chemodatascience/blob/master/sources/Data_Science_Health_and_Meaning.pdf
 - Clustering - PCA to BHC
 <https://github.com/marneylc/chemodatascience/blob/master/jupyter/PCA-BHC-SkogerboeDogFood.ipynb>
