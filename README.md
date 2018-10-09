@@ -9,13 +9,13 @@ Mathematical models are not reality itself. As I look into a hypothesis about my
 "The whole process of learning the facility of being able to play jazz is to take these problems from the outer level in, one by one, and to stay with it at a very intense, conscious-concentration level until that process becomes secondary and subconscious. Now, when that becomes subconscious, then you can begin concentrating on that next problem, which will allow you to do a little bit more." --Bill Evans
 
 ### Analysis Methods
+- Data Science Health and Meaning - From Large-Scale Inference to Spectroscopy to Quantum Probabilites - **in progress** 
+<https://github.com/marneylc/chemodatascience/blob/master/sources/Data_Science_Health_and_Meaning.pdf
 - Clustering - PCA to BHC
 <https://github.com/marneylc/chemodatascience/blob/master/jupyter/PCA-BHC-SkogerboeDogFood.ipynb>
 - Regression - Quinine
 <https://github.com/marneylc/chemodatascience/blob/master/jupyter/Fluorescence_of_Quinine_F2017.ipynb> 
-- Large-Scale Inference - **in progress** 
-<https://github.com/StoreyLab/qvalue> - Use Skyline for MTBLS162 <https://www.ebi.ac.uk/metabolights/MTBLS162>
-- Random Forest - **in progress** 
+ Random Forest - **in progress** 
 <https://github.com/marneylc/chemodatascience/blob/master/jupyter/Random_Forest_Wine_Quality.ipynb>
 - GWAS with Metabolomics Data 
 <https://github.com/marneylc/chemodatascience/blob/master/sources/Manuscript_Circulation_Lipid_profiling_by_direct_infusion.pdf>
