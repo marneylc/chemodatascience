@@ -16,8 +16,8 @@ From Andrew Ng <https://github.com/marneylc/chemodatascience/blob/master/sources
 - Clustering - PCA to BHC
 <https://github.com/marneylc/chemodatascience/blob/master/jupyter/PCA-BHC-SkogerboeDogFood.ipynb>
 - Regression - Quinine
-<https://github.com/marneylc/chemodatascience/blob/master/jupyter/Fluorescence_of_Quinine_F2017.ipynb> 
- Random Forest - **in progress** 
+<https://github.com/marneylc/chemodatascience/blob/master/jupyter/Fluorescence_of_Quinine_F2017.ipynb>  
+- Random Forest - **in progress** 
 <https://github.com/marneylc/chemodatascience/blob/master/jupyter/Random_Forest_Wine_Quality.ipynb>
 - PLS-DA of Lipids
 <https://www.ncbi.nlm.nih.gov/pubmed/26273324>
