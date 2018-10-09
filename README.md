@@ -11,6 +11,8 @@ I wonder if mathematical models are reality. As I look into a hypothesis about m
 ### Analysis Methods
 - Data Science, Health, and Meaning - From Large-Scale Inference to Spectroscopy to Quantum Probabilites - **in progress** 
 <https://github.com/marneylc/chemodatascience/blob/master/sources/Data_Science_Health_and_Meaning.pdf
+- Deep Learning - Neural Nets **in progress**
+From Andrew Ng -<https://github.com/marneylc/chemodatascience/blob/master/sources/DeepLearning_Notation_CheetSheet.pdf>
 - Clustering - PCA to BHC
 <https://github.com/marneylc/chemodatascience/blob/master/jupyter/PCA-BHC-SkogerboeDogFood.ipynb>
 - Regression - Quinine
