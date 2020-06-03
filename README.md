@@ -35,11 +35,11 @@ https://www.ncbi.nlm.nih.gov/pubmed/24054679
 ### Data Types and Visualization
 - metadata - https://github.com/marneylc/metadata - needs a shiny interface
 - LC-UV **in progress**
-- GC-FID **in progress**
-- GCMS - **in progress**
+- GC-FID - https://github.com/marneylc/gcms_julia_pub
+- GCMS - https://github.com/marneylc/gcms_julia_pub
 - LCMS (MRM) - **in progress**
-- LCMS (Orbitrap) - **in progress**
-- GCxGC-TOFMS - **in progress**
+- LCMS (Orbitrap) - https://github.com/marneylc/hrms-pub
+- GCxGC-TOFMS - http://depts.washington.edu/synlab/
 - NMR - **in progress**
 - Instrumentation Management Documentation 
 <https://github.com/marneylc/IM/>
